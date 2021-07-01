@@ -19,4 +19,4 @@ const catalogo = [
   
   module.exports = catalogo;
 
-  
+  let nome = "Fabio";
